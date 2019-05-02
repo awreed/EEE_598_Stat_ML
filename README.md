@@ -4,3 +4,4 @@ The directory 'cifar10_experiments' contains the code necessary for running the 
 The other .py files in the directory come from a pytorch project I cited in the paper and the progressive GAN code. They hold the VGG network and some utility code for loading images and such
 
 Email awreed@asu.edu for the .pkl files containing pretrained networks. They are too big to upload to github in any reasonable amount of time
+
